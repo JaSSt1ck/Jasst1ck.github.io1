@@ -1,0 +1,257 @@
+* {
+    text-decoration: none;
+    list-style: none;
+}
+
+
+/* HEADER START */
+
+header {
+    background: url(../img/Livello\ 1.jpg) center center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.menu_top ul li a {
+    color: #fff !important;
+    font-size: 18px;
+    transition: 0.3s;
+}
+
+.menu_top ul li a:hover {
+    transform: scale(1.1);
+}
+
+.header_text {
+    text-align: center;
+    margin-top: 250px;
+}
+
+.header_text h1 {
+    font-size: 45px;
+    color: #ffffff;
+}
+
+.header_text p {
+    margin: auto;
+    font-size: 16px;
+    width: 650px;
+    color: #fff;
+    margin-top: 12px;
+}
+
+.navbar-nav li a {
+    margin-left: 57px;
+}
+
+
+/* HEADER END */
+
+.block1 li a {
+    margin: 0 20px;
+    color: #333333;
+    font-size: 18px;
+    font-weight: bolder;
+}
+
+.all {
+    padding: 13px 32px;
+    background: #aa9b77;
+    border-radius: 5px;
+    color: #ffffff;
+    font-size: 16px;
+}
+
+.all:hover {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.section_1 {
+    background: #f5f6f7;
+    height: 142px;
+}
+
+.block_1 {
+    padding-top: 42px;
+}
+
+
+/* sectino_1 end */
+
+.block_line {
+    width: 994px;
+    height: 2px;
+    color: #ff1717;
+}
+
+.block_img {
+    width: 310px;
+    height: 374px;
+    background: #f5f6f7;
+    transition: 0.4s;
+}
+
+.block_money {
+    display: flex;
+    justify-content: space-between;
+}
+
+.block_img img {
+    margin: 40px 75px;
+}
+
+.block_img form {
+    padding-top: 20px;
+    padding: 17px;
+    border-color: #aa9b7700;
+}
+
+.block_money h5 {
+    margin-left: 18px;
+    font-size: 18px;
+    color: #aa9b77;
+}
+
+.block_money p {
+    margin-right: 18px;
+    color: #424242;
+    font-size: 18px;
+}
+
+.block_img:hover {
+    border: 5px solid #aa9b77;
+    cursor: pointer;
+}
+
+.kosyak img {
+    margin: 20px 75px;
+}
+
+.kosyak1 img {
+    margin: 30px 75px;
+}
+
+.forma {
+    display: flex;
+    align-items: center;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.forma img {
+    margin-left: 41px;
+    padding-bottom: 14px;
+}
+
+.women img {
+    margin-left: 0;
+    margin-right: 10px;
+}
+
+.kosyak2 img {
+    margin: 25px 75px;
+}
+
+.kosyak3 img {
+    margin: 66px 75px;
+}
+
+.kosyak4 img {
+    margin: 20px 75px;
+}
+
+.pas {
+    margin-bottom: 130px;
+}
+
+
+/* section2 end */
+
+.main_top {
+    text-align: center;
+    width: 475px;
+    margin: auto;
+}
+
+.main_top h2 {
+    padding-top: 70px;
+    padding-bottom: 80px;
+    color: #837659;
+    font-size: 40px;
+}
+
+.main_block {
+    background: #aa9b77;
+    height: 400px;
+}
+
+.main_top p {
+    font-size: 20px;
+    color: #424242;
+}
+
+.twitter {
+    display: flex;
+    padding-top: 23px;
+    background: #535253;
+}
+
+.twitter img {
+    margin-right: 18px;
+}
+
+.main_footer {
+    background: #535253;
+    height: 80px;
+}
+
+.twitter p {
+    color: #ffffff !important;
+    font-size: 18px;
+}
+
+
+/* main end */
+
+.footer_info {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer_last {
+    width: 310px;
+}
+
+footer {
+    background: #424242;
+    height: 350px;
+}
+
+.footer_last h3 {
+    margin-top: 110px;
+    margin-bottom: 22px;
+    color: #fff;
+}
+
+.footer_last p {
+    color: #fff;
+}
+
+.footer_text {
+    margin-top: 150px;
+}
+
+.footer_text a {
+    color: #fff;
+}
+
+.footer_text a:hover {
+    text-decoration: none;
+}
+
+.footer_text p {
+    color: #fff;
+    text-align: center;
+}
